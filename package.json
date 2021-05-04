@@ -1,0 +1,23 @@
+{
+  "name": "nlu-analizer-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stompercito/NLU-Analizer-Lambda.git"
+  },
+  "author": "Luis David Gallegos Godoy MrS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stompercito/NLU-Analizer-Lambda/issues"
+  },
+  "homepage": "https://github.com/stompercito/NLU-Analizer-Lambda#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ibm-watson": "^6.0.4"
+  }
+}
